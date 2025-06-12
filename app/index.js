@@ -2,6 +2,7 @@
 var path = require('path');
 var yeoman = require('yeoman-generator');
 var globby = require('globby');
+var int = 1;
 
 module.exports = yeoman.Base.extend({
 	init: function () {
@@ -35,3 +36,6 @@ module.exports = yeoman.Base.extend({
 		}.bind(this));
 	}
 });
+
+
+const name = "this is my name";
