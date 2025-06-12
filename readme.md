@@ -1,20 +1,4 @@
-# This project is archived. 
-
-# HTML5 Boilerplate generator [![Build Status](https://travis-ci.org/h5bp/generator-h5bp.png?branch=master)](http://travis-ci.org/h5bp/generator-h5bp)
-
-> Scaffolds out [HTML5 Boilerplate](http://html5boilerplate.com)
-
-
-## Install
-
-```
-$ npm install --global generator-h5bp
-```
-adfasdfdf
-
-## Usage
-
-Run it with [`yo`](https://github.com/yeoman/yo):
+with [`yo`](https://github.com/yeoman/yo):
 
 ```
 $ yo h5bp
