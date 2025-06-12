@@ -38,4 +38,4 @@ module.exports = yeoman.Base.extend({
 });
 
 
-const name = "this is my name";
+const name = "this is my name asdas";

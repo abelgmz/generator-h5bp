@@ -4,6 +4,10 @@ var path = require('path');
 var helpers = require('yeoman-test');
 var assert = require('yeoman-assert');
 
+function someFunction(){
+	ddd
+}
+
 describe('H5BP generator', function () {
 	beforeEach(function (cb) {
 		var deps = ['../../app'];
