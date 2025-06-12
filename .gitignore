@@ -1,3 +1,7 @@
 node_modules
 test/temp
+# Ignore file
 /test/credentials.py
+
+#Ignore folder
+text/*.txt
