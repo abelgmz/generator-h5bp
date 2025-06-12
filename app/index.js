@@ -20,6 +20,10 @@ module.exports = yeoman.Base.extend({
 				this.directory('doc');
 			}
 
+			this.directory('css');
+			this.directory('img');
+			this.directory('js');
+
 			globby.sync('*', {
 				cwd: this.sourceRoot(),
 				dot: true,
@@ -33,3 +37,5 @@ module.exports = yeoman.Base.extend({
 	}
 });
 
+
+const name = "this is my name";
